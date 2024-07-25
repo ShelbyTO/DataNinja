@@ -106,11 +106,8 @@ To contribute to the DataNinja package:
 1. Clone the Repository:
 
 ```
-<<<<<<< HEAD
-git clone https://github.com/YourUsername/DataNinja.git
-=======
 git clone https://github.com/ShelbyTO/DataNinja.git
->>>>>>> dd9f3b2 (Initial commit)
+
 ```
 
 2. Navigate to the Project Directory:
@@ -140,9 +137,5 @@ This package is licensed under the MIT License. See the LICENSE file for details
 For any issues or questions, please contact:
 
 Author: Nicolas Prieur
-<<<<<<< HEAD
-Email: prieur.nicolas@outlook.com
-
-=======
 Email: pu-zle@live.fr
->>>>>>> dd9f3b2 (Initial commit)
+
